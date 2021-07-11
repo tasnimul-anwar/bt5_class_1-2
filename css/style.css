@@ -1,0 +1,118 @@
+.box1{
+	min-height: 100px;
+	background-color: lightblue;
+	margin-bottom: 3px;
+}
+.box2{
+	min-height: 100px;
+	background-color: cyan;
+	margin-bottom: 3px;
+}
+.box3{
+	min-height: 100px;
+	background-color: lightyellow;
+	margin-bottom: 3px;
+}
+
+.box4, .box5{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 3px;
+}
+
+/*.box5{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 3px;
+}*/
+
+.box6, .box7, .box8{
+	min-height: 100px;
+	background-color: lightblue;
+	margin-bottom: 3px;
+}
+
+.box9{
+	min-height: 100px;
+	background-color: lightcoral;
+	margin-bottom: 3px;
+}
+
+.box10{
+	min-height: 100px;
+	background-color: darkcyan;
+	margin-bottom: 3px;
+}
+
+.box11{
+	min-height: 100px;
+	background-color: grey;
+	margin-bottom: 3px;
+}
+
+.box12{
+	min-height: 100px;
+	background-color: darkcyan;
+	margin-bottom: 3px;
+}
+
+.box13{
+	min-height: 100px;
+	background-color: lightblue;
+	margin-bottom: 3px;
+}
+
+.box14{
+	min-height: 100px;
+	background-color: green;
+	margin-bottom: 3px;
+}
+
+.mh-300{
+	min-height: 300px;
+}
+.box15{
+	min-height: 100px;
+	background-color: cyan;
+	margin-bottom: 3px;
+}
+
+.box16{
+	min-height: 100px;
+	background-color: lightblue;
+	margin-bottom: 3px;
+}
+
+
+
+
+.header, .hero, .body, .bar, .footer{
+	background-color: teal;
+	margin-bottom: 10px;
+}
+.box_1{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: red;
+	font-size: 30px;
+	color: white;
+}
+
+.red{
+	background-color: lime;
+}
+
+.five{
+	background-color: blue;
+}
+
+.box_2{
+	width: 200px;
+	height: 200px;
+	background-color: greenyellow;
+}
+
+.box_3{
+	background-color: lightblue;
+	border: 3px solid;
+}
