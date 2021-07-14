@@ -116,3 +116,7 @@
 	background-color: lightblue;
 	border: 3px solid;
 }
+
+.mh-100{
+	min-height: 100px;
+}
